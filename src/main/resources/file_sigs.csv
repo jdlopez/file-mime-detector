@@ -6,11 +6,24 @@ A1 B2 C3 D4 (big-endian),¡²ÃÔ,0,pcap,Libpcap File Format,
 A1 B2 3C 4D (big-endian),¡²<M,0,pcap,Libpcap File Format (nanosecond-resolution),
 0A 0D 0D 0A,␊␍␍␊,0,pcapng,PCAP Next Generation Dump File Format,
 ED AB EE DB,í«îÛ,0,rpm,RedHat Package Manager (RPM) package,
-"53 51 4C 69 74 65 20 66 6F 72 6D 61 74 20 33 00",SQLite format 3␀,0,"sqlitedb sqlite db",SQLite Database,
+"53 51 4C 69 74 65 20 66
+6F 72 6D 61 74 20 33 00",SQLite format 3␀,0,"sqlitedb
+sqlite
+db",SQLite Database,
 53 50 30 31,SP01,0,bin,Amazon Kindle Update Package,
 49 57 41 44,IWAD,0,wad,internal WAD (main resource file of Doom),
-0,␀,0,"PIC PIF SEA YTR","IBM Storyboard bitmap file Windows Program Information File Mac Stuffit Self-Extracting Archive IRIS OCR data file",
-"00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00","␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀␀",11,PDB,PalmPilot Database/Document File,
+0,␀,0,"PIC
+PIF
+SEA
+YTR","IBM Storyboard bitmap file
+Windows Program Information File
+Mac Stuffit Self-Extracting Archive
+IRIS OCR data file",
+"00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00","␀␀␀␀␀␀␀␀
+␀␀␀␀␀␀␀␀
+␀␀␀␀␀␀␀␀",11,PDB,PalmPilot Database/Document File,
 BE BA FE CA,¾ºþÊ,0,DBA,Palm Desktop Calendar Archive,
 00 01 42 44,␀␁BD,0,DBA,Palm Desktop To Do Archive,
 00 01 44 54,␀␁DT,0,TDA,Palm Desktop Calendar Archive,
@@ -21,22 +34,35 @@ BE BA FE CA,¾ºþÊ,0,DBA,Palm Desktop Calendar Archive,
 69 63 6e 73,icns,0,icns,Apple Icon Image format,
 66 74 79 70 33 67,ftyp3g,4,"3gp
 3g2",3rd Generation Partnership Project 3GPP and 3GPP2 multimedia files,
-1F 9D,␟□,0,"z tar.z",compressed file (often tar zip) using Lempel-Ziv-Welch algorithm,
-1F A0,␟⍽,0,"z tar.z",Compressed file (often tar zip) using LZH algorithm,
+1F 9D,␟□,0,"z
+tar.z",compressed file (often tar zip) using Lempel-Ziv-Welch algorithm,
+1F A0,␟⍽,0,"z
+tar.z",Compressed file (often tar zip) using LZH algorithm,
 2D 68 6C 30 2D,-lh0-,2,lzh,Lempel Ziv Huffman archive file Method 0 (No compression),
 2D 68 6C 35 2D,-lh5-,2,lzh,Lempel Ziv Huffman archive file Method 5 (8KiB sliding window),
-"42 41 43 4B 4D 49 4B 45 44 49 53 4B",BACKMIKEDISK,0,bac,AmiBack Amiga Backup data file,
+"42 41 43 4B 4D 49 4B 45
+44 49 53 4B",BACKMIKEDISK,0,bac,AmiBack Amiga Backup data file,
 49 4E 44 58,INDX,0,idx,AmiBack Amiga Backup index file,
 62 70 6C 69 73 74,bplist,0,plist,Binary Property List file,
 42 5A 68,BZh,0,bz2,Compressed file using Bzip2 algorithm,
-"47 49 46 38 37 61 47 49 46 38 39 61","GIF87a
+"47 49 46 38 37 61
+47 49 46 38 39 61","GIF87a
 GIF89a",0,gif,Image file encoded in the Graphics Interchange Format (GIF),
-49 49 2A 00 (little-endian),II*␀,0,"tif tiff",Tagged Image File Format (TIFF),
-4D 4D 00 2A (big-endian),MM␀*,0,"tif tiff",Tagged Image File Format (TIFF),
-"49 49 2A 00 10 00 00 00 43 52",II*␀␐␀␀␀CR,0,cr2,"Canon RAW Format Version 2 Canon's RAW format is based on TIFF.",
+49 49 2A 00 (little-endian),II*␀,0,"tif
+tiff",Tagged Image File Format (TIFF),
+4D 4D 00 2A (big-endian),MM␀*,0,"tif
+tiff",Tagged Image File Format (TIFF),
+"49 49 2A 00 10 00 00 00
+43 52",II*␀␐␀␀␀CR,0,cr2,"Canon RAW Format Version 2
+Canon's RAW format is based on TIFF.",
 80 2A 5F D7,€*_×,0,cin,Kodak Cineon image,
-"52 4E 43 01 52 4E 43 02","RNC␁ RNC␂",0,,Compressed file using Rob Northen Compression (version 1 and 2) algorithm,
-"4E 55 52 55 49 4D 47 4E 55 52 55 50 41 4C","NURUIMG NURUPAL",0,"nui nup",nuru ASCII/ANSI image and palette files,
+"52 4E 43 01
+52 4E 43 02","RNC␁
+RNC␂",0,,Compressed file using Rob Northen Compression (version 1 and 2) algorithm,
+"4E 55 52 55 49 4D 47
+4E 55 52 55 50 41 4C","NURUIMG
+NURUPAL",0,"nui
+nup",nuru ASCII/ANSI image and palette files,
 53 44 50 58 (big-endian format),SDPX,0,dpx,SMPTE DPX image,
 58 50 44 53 (little-endian format),XPDS,0,dpx,SMPTE DPX image,
 76 2F 31 01,v/1␁,0,exr,OpenEXR image,
@@ -46,11 +72,30 @@ jpeg",JPEG raw or in the JFIF or Exif file format,
 "FF D8 FF E0 00 10 4A 46
 49 46 00 01",ÿØÿà␀␐JFIF␀␁,0,"jpg
 jpeg",JPEG raw or in the JFIF or Exif file format,
-FF D8 FF EE,ÿØÿî,0,"jpg jpeg",JPEG raw or in the JFIF or Exif file format,
-"FF D8 FF E1 ?? ?? 45 78 69 66 00 00",ÿØÿá??Exif␀␀,0,"jpg jpeg",JPEG raw or in the JFIF or Exif file format,
+FF D8 FF EE,ÿØÿî,0,"jpg
+jpeg",JPEG raw or in the JFIF or Exif file format,
+"FF D8 FF E1 ?? ?? 45 78
+69 66 00 00",ÿØÿá??Exif␀␀,0,"jpg
+jpeg",JPEG raw or in the JFIF or Exif file format,
 FF D8 FF E0,ÿØÿà,0,jpg,JPEG raw or in the JFIF or Exif file format,
-00 00 00 0C 6A 50 20 20 0D 0A 87 0A,␀␀␀␌jP␠␠␍␊‡␊,0,"jp2 j2k jpf jpm jpg2 j2c jpc jpx mj2",JPEG 2000 format,
-FF 4F FF 51,ÿOÿQ,0,"jp2 j2k jpf jpm jpg2 j2c jpc jpx mj2",JPEG 2000 format,
+00 00 00 0C 6A 50 20 20 0D 0A 87 0A,␀␀␀␌jP␠␠␍␊‡␊,0,"jp2
+j2k
+jpf
+jpm
+jpg2
+j2c
+jpc
+jpx
+mj2",JPEG 2000 format,
+FF 4F FF 51,ÿOÿQ,0,"jp2
+j2k
+jpf
+jpm
+jpg2
+j2c
+jpc
+jpx
+mj2",JPEG 2000 format,
 71 6f 69 66,qoif,0,,QOI - The “Quite OK Image Format”,
 "46 4F 52 4D ?? ?? ?? ??
 49 4C 42 4D",FORM????ILBM,"0

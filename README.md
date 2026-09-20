@@ -6,5 +6,6 @@ Java library for mime-type file detection using magic numbers not just filename 
 There are some "magic numbers" sources here we use:
 
 https://github.com/TheDiscordian/magic-bytes
+https://github.com/TheDiscordian/magic-bytes/blob/master/file_sigs.csv
 
 https://en.wikipedia.org/wiki/List_of_file_signatures
